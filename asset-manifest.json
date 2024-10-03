@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/repo/static/css/main.f9550681.css",
-    "main.js": "/repo/static/js/main.a42c706c.js",
-    "static/media/image.jpg": "/repo/static/media/image.5812a557c401204c9ecd.jpg",
-    "static/media/contact.jpg": "/repo/static/media/contact.58603a504ac68e11b8e8.jpg",
-    "static/media/gamebg.jpg": "/repo/static/media/gamebg.3e7ae283db00c9701313.jpg",
-    "static/media/carrotbuds.jpg": "/repo/static/media/carrotbuds.b71de22c519c71a9c2fa.jpg",
-    "static/media/veg-1.jpeg": "/repo/static/media/veg-1.cf3521f302fa9a14bf71.jpeg",
-    "static/media/veg-2.jpg": "/repo/static/media/veg-2.fbafe559815193faacf6.jpg",
-    "static/media/veg-3.jpg": "/repo/static/media/veg-3.51e4fa0f7c22bc111c74.jpg",
-    "static/media/mac-the-machine.jpg": "/repo/static/media/mac-the-machine.6dd81890e7564e00879e.jpg",
-    "static/media/game-bg.jpg": "/repo/static/media/game-bg.2fee849ec06f905f8b66.jpg",
-    "index.html": "/repo/index.html",
-    "static/media/failed.svg": "/repo/static/media/failed.0d2274cf695c6d99ddf78da77eeda78a.svg",
-    "static/media/logo.svg": "/repo/static/media/logo.0624a9d5310f3c73f7d4b5cf52cb4d30.svg",
-    "static/media/success-tick.svg": "/repo/static/media/success-tick.a35e7409c71f83995fbb2ab420dcfe21.svg",
-    "static/media/arrow-open.svg": "/repo/static/media/arrow-open.6f71e65b999406eefcb0445f65230256.svg",
-    "static/media/nav-icon.svg": "/repo/static/media/nav-icon.237eb9f890ef2fac3ce9fb69b11ad6e4.svg",
-    "main.f9550681.css.map": "/repo/static/css/main.f9550681.css.map",
-    "main.a42c706c.js.map": "/repo/static/js/main.a42c706c.js.map"
+    "main.css": "/YorakeysWebsite/static/css/main.f9550681.css",
+    "main.js": "/YorakeysWebsite/static/js/main.03b8ae7a.js",
+    "static/media/image.jpg": "/YorakeysWebsite/static/media/image.5812a557c401204c9ecd.jpg",
+    "static/media/contact.jpg": "/YorakeysWebsite/static/media/contact.58603a504ac68e11b8e8.jpg",
+    "static/media/gamebg.jpg": "/YorakeysWebsite/static/media/gamebg.3e7ae283db00c9701313.jpg",
+    "static/media/carrotbuds.jpg": "/YorakeysWebsite/static/media/carrotbuds.b71de22c519c71a9c2fa.jpg",
+    "static/media/veg-1.jpeg": "/YorakeysWebsite/static/media/veg-1.cf3521f302fa9a14bf71.jpeg",
+    "static/media/veg-2.jpg": "/YorakeysWebsite/static/media/veg-2.fbafe559815193faacf6.jpg",
+    "static/media/veg-3.jpg": "/YorakeysWebsite/static/media/veg-3.51e4fa0f7c22bc111c74.jpg",
+    "static/media/mac-the-machine.jpg": "/YorakeysWebsite/static/media/mac-the-machine.6dd81890e7564e00879e.jpg",
+    "static/media/game-bg.jpg": "/YorakeysWebsite/static/media/game-bg.2fee849ec06f905f8b66.jpg",
+    "index.html": "/YorakeysWebsite/index.html",
+    "static/media/failed.svg": "/YorakeysWebsite/static/media/failed.0d2274cf695c6d99ddf78da77eeda78a.svg",
+    "static/media/logo.svg": "/YorakeysWebsite/static/media/logo.0624a9d5310f3c73f7d4b5cf52cb4d30.svg",
+    "static/media/success-tick.svg": "/YorakeysWebsite/static/media/success-tick.a35e7409c71f83995fbb2ab420dcfe21.svg",
+    "static/media/arrow-open.svg": "/YorakeysWebsite/static/media/arrow-open.6f71e65b999406eefcb0445f65230256.svg",
+    "static/media/nav-icon.svg": "/YorakeysWebsite/static/media/nav-icon.237eb9f890ef2fac3ce9fb69b11ad6e4.svg",
+    "main.f9550681.css.map": "/YorakeysWebsite/static/css/main.f9550681.css.map",
+    "main.03b8ae7a.js.map": "/YorakeysWebsite/static/js/main.03b8ae7a.js.map"
   },
   "entrypoints": [
     "static/css/main.f9550681.css",
-    "static/js/main.a42c706c.js"
+    "static/js/main.03b8ae7a.js"
   ]
 }
